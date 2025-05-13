@@ -78,7 +78,7 @@ Inclui as seguintes entidades:
 
 ## ✅ Conclusão 
 
-O projeto permitiu aplicar, de forma prtática, os conhecimentos de modelagem e administração de banco de dados. Além de construir um sistema funcional, a equipe enfrentou desafios reais como estruturação lógica, segurança, consultas eficientes e adaptação ao ambiente de nuvem. O resultado é uma base sólida, funcional e preparada para expansão futura. 
+O projeto permitiu aplicar, de forma prática, os conhecimentos de modelagem e administração de banco de dados. Além de construir um sistema funcional, a equipe enfrentou desafios reais como estruturação lógica, segurança, consultas eficientes e adaptação ao ambiente de nuvem. O resultado é uma base sólida, funcional e preparada para expansão futura. 
 
 ## 📌 Próximos Passos 
 
