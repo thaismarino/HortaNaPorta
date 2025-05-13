@@ -12,6 +12,10 @@ A Horta na Porta é uma loja física e virtual que une sustentabilidade, comérc
 - [Paula Barros Ortiz](https://github.com/paulabortiz)
 - [Thais Oliveira dos Santos](https://github.com/thaismarino)
 
+## 👨‍🏫 Orientadora
+
+- Debora Batista da Silva Paulo 
+
 ## 🎯 Objetivo do Projeto 
 
 Implementar um banco de dados funcional e seguro para uma empresa fictícia do setor de sustentabilidade e comércio consciente, com foco na organização dos dados, normalização e aplicação prática dos conceitos da disciplina. 
