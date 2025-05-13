@@ -26,16 +26,16 @@ Implementar um banco de dados funcional e seguro para uma empresa fictícia do s
 
 ## 📂 Funcionalidades do Sistema 
 
--**Cadastro de Clientes e Fornecedores**
--**Gerenciamento de Produtos** (orgânicos, sustentáveis, etc.)
--**Controle de Estoque**
--**Venda física e online**
--**Simulação de Carrinho e Itens**
--**Pedidos Online com rastreio**
--**Consultas SQL personalizadas**
--**Relatórios de vendas por canal e produtos mais vendidos**
--**Ranking de vendas**
--**Controle de segurança e acesso via Heroku**
+- **Cadastro de Clientes e Fornecedores**
+- **Gerenciamento de Produtos** (orgânicos, sustentáveis, etc.)
+- **Controle de Estoque**
+- **Venda física e online**
+- **Simulação de Carrinho e Itens**
+- **Pedidos Online com rastreio**
+- **Consultas SQL personalizadas**
+- **Relatórios de vendas por canal e produtos mais vendidos**
+- **Ranking de vendas**
+- **Controle de segurança e acesso via Heroku**
 
 ## 🔒 Regras de Negócio e Segurança 
 
