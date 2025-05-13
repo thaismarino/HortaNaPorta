@@ -62,8 +62,6 @@ O banco foi normalizado até a **3FN**, garantindo:
 
 ## 🗺️ Diagrama Entidade-Relacionamento (DER)
 
-Imagem disponível no repositório como der_horta_na_porta.png
-
 Inclui as seguintes entidades:
 - Cliente
 - Fornecedor
@@ -75,6 +73,8 @@ Inclui as seguintes entidades:
 - Pedido Online
 - Estoque Movimentações
 - Ranking de Vendas
+
+![DER do projeto Horta na Porta](der_horta_na_porta.png)
 
 ## ✅ Conclusão 
 
