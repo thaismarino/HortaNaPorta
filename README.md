@@ -8,7 +8,7 @@ A Horta na Porta é uma loja física e virtual que une sustentabilidade, comérc
 
 - [Bruno Costa Caiado](https://github.com/costacaiado)
 - [Felipe Augusto Santinho](https://github.com/felipe-santinho)
-- [Isabel Helana Hartmann](https://github.com/belhartmann)
+- [Isabel Helena Hartmann](https://github.com/belhartmann)
 - [Paula Barros Ortiz](https://github.com/paulabortiz)
 - [Thais Oliveira dos Santos](https://github.com/thaismarino)
 
